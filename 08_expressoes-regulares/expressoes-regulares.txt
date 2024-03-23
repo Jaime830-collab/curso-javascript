@@ -1,0 +1,13 @@
+Expressões Regulares
+-- Uma forma de encontrar padrões em uma String;
+-- Por exeplo:
+    .Validar se só tem números
+    .Verificar se a String (texto) é um e-mail
+    .Verificar se a String (texto) é uma senha.
+    .Etc..
+
+-- Em vez de criarmos funções complexas, podemos encontrar dados em um texto por meio de expressões regulares.
+-- Também chamadas de Regex.
+-- As expressês regulares no Javascript são um tipo de Objeto.
+-- Podemos instancia-las de duas formas:
+   New Regex("teste") ou /teste/
